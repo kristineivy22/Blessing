@@ -1,5 +1,4 @@
 # Blessing
-<Android-README.md>
-<grader-task-android.gif>
-<grader-task-ios.gif>
-<iOS-README.md>
+
+I love :coffee: :doughnut:, :cake:, :pizza:, :singer:, and :dancer:.
+
